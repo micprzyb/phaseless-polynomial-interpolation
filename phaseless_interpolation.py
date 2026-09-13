@@ -20,7 +20,7 @@ Requirements:
 """
 
 __author__     = "Michal R. Przybylek"
-__license__    = "MIT"
+__license__    = "Apache License, Version 2.0."
 __version__    = "1.0.0"
 __email__      = "mrp@mimuw.edu.pl"
 
