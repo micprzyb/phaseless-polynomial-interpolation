@@ -7,7 +7,8 @@ Description:
     for some (presumably fixed) parameter k. The algorithm runs in polynomial-time
     in the bit-size of the input points and doubly-exponential in k.
     The algorithm is described in:
-        "Phaseless Interpolation for Rational Polynomials of High Degree"
+        "Information-Based Complexity vs Computational Complexity in Phaseless Polynomial
+Interpolation"
             by Michal R. Przybylek and Pawel Siedlecki
 
 
