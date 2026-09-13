@@ -155,7 +155,7 @@ The return value is a list of SymPy expressions in the symbol `x` imported from
 For nonzero data, the implementation selects the first nonzero measurement in
 input order, shifts that evaluation point to the origin, and chooses the
 positive square root there. Thus, a returned representative satisfies
-$q(x_*)=|y_*|$ at that selected point; its negative is not separately returned.
+$q(x_i)=|y_i|$ at that selected point; its negative is not separately returned.
 Changing the order of the measurements can change the chosen representative's
 sign.
 
